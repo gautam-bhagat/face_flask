@@ -4,7 +4,7 @@ certifi==2024.6.2
 click==8.1.7
 cmake==3.29.6
 colorama==0.4.6
-dlib @ file:///D:/face_flask/dlib-19.22.99-cp38-cp38-win_amd64.whl
+https://github.com/z-mahmud22/Dlib_Windows_Python3.x/raw/main/dlib-19.22.99-cp38-cp38-win_amd64.whl
 dnspython==2.6.1
 email-validator==2.2.0
 exceptiongroup==1.2.1
